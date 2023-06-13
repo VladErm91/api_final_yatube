@@ -28,5 +28,5 @@ python3 manage.py migrate
 python3 manage.py runserver
 
 
-Над проектом работал
+## Над проектом работал
 Ермолаев Влад
