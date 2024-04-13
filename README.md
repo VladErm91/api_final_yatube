@@ -1,13 +1,14 @@
-# Yatube_api
+# Проект социальной сети на Django
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) 
 
-RESTful API для проекта Yatube
-Yatube это социальная сеть, где каждый может поделиться постом, оставить свой комментарий, подписаться на друга или вступить в группу.
+RESTful API для проекта социальной веб сети
+Веб-сайт, где каждый может поделиться постом, оставить свой комментарий, подписаться на друга или вступить в группу.
 
-Развитие проекта Yatube его очередная более совершенная итерация Yatube_api. С помощью этого API-интерфейса могут работать мобильное приложение либо чат-бот. Также с его помощью возможна передача данных другим приложениям.
+С помощью этого API-интерфейса могут работать мобильное приложение либо чат-бот. 
+Также с его помощью возможна передача данных другим приложениям.
 
 ## Технологии применявшиеся в создании проекта
 Python,
