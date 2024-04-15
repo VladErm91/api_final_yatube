@@ -49,4 +49,9 @@ python3 manage.py migrate
 python3 manage.py runserver
 ```
 
+### Необходимые переменные среды (.env)
+
+- SECRET_KEY
+- DEBUG
+
 Автор: [VladErm91](https://github.com/VladErm91)
