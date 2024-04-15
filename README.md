@@ -18,9 +18,9 @@ RESTful API для проекта социальной веб сети
 - Обмен коментариями
 
 ### Технологии проекта:
-* Python 3.9 либо выше
-* Django,
-* Django REST Framework
+- Python 3.9 либо выше
+- Django
+- Django REST Framework
 
 ### Как запустить проект:
 Клонировать репозиторий и перейти в него в командной строке:
@@ -50,8 +50,11 @@ python3 manage.py runserver
 ```
 
 ### Необходимые переменные среды (.env)
+```
 
-- SECRET_KEY
-- DEBUG
+SECRET_KEY = ''
+DEBUG = False
+
+```
 
 Автор: [VladErm91](https://github.com/VladErm91)
