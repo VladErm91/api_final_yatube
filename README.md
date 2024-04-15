@@ -51,10 +51,8 @@ python3 manage.py runserver
 
 ### Необходимые переменные среды (.env)
 ```
-
 SECRET_KEY = ''
 DEBUG = False
-
 ```
 
 Автор: [VladErm91](https://github.com/VladErm91)
